@@ -1,0 +1,15 @@
+\begin{titlepage}
+  \begin{center}
+  \includegraphics[scale=0.7]{ensp-principal.jpg}
+  
+  \vfil
+  
+  \Large
+  \textbf{Mestrado em Epidemiologia, Bioestatística e Investigação em Saúde}
+  
+  \vspace{2cm}
+  \textbf{Seminário de Investigação}
+  
+
+  \end{center}
+\end{titlepage}
